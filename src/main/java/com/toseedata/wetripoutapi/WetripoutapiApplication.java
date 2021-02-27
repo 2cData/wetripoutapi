@@ -10,4 +10,4 @@ public class WetripoutapiApplication {
 		SpringApplication.run(WetripoutapiApplication.class, args);
 	}
 
-}
+} 
